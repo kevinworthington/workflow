@@ -1,0 +1,67 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2021-02-23T17:53:22Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Roads TX RG",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Texas roads within the Rio Grande River Basin. The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation.Primary roads are generally divided, limited-access highways within the interstate highway system or under State management, and are distinguished by the presence of interchanges. These highways are accessible by ramps and may include some toll highways. The MAF/TIGER Feature Classification Code (MTFCC) is S1100 for primary roads. Secondary roads are main arteries, usually in the U.S. Highway, State Highway, and/or County Highway system. These roads have one or more lanes of traffic in each direction, may or may not be divided, and usually have at-grade intersections with many other roads and driveways. They usually have both a local name and a route number. The MAF/TIGER Feature Classification Code (MTFCC) is S1200 for secondary roads. ",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Colorado State University"
+  ],
+  "dc_publisher_sm": [
+    "Geospatial Centroid"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "roads",
+    "Texas",
+    "rg_infrastructure",
+    "infrastructure",
+    "traffic",
+    "RioGrande",
+    "RioGrandeRiver",
+    "RioGrandeBasin",
+    "Streets",
+    "Trasnportation",
+    "travel"
+  ],
+  "dct_issued_s": "2020-05-20T20:32:56.000Z",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Colorado"
+  ],
+  "solr_geom": "ENVELOPE(-106.6286,-97.2307,32.4283,25.8986)",
+  "b1g_centroid_ss": "29.163449999999997,-101.92965000000001",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "https://hub.arcgis.com/datasets/c9aca4fe0f6d43c5aa5592826910059f_0",
+  "dc_identifier_s": "https://hub.arcgis.com/datasets/c9aca4fe0f6d43c5aa5592826910059f_0",
+  "dct_provenance_s": "Colorado State University",
+  "b1g_code_s": "geospatial_centroid",
+  "dct_isPartOf_sm": [
+    "geospatial_centroid"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/c9aca4fe0f6d43c5aa5592826910059f_0\",\"http://schema.org/downloadUrl\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/c9aca4fe0f6d43c5aa5592826910059f_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/KNdRU5cN6ENqCTjk/arcgis/rest/services/Roads_TX_RG/FeatureServer/0\"}"
+}

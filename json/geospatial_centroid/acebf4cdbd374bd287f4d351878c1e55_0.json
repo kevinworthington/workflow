@@ -1,0 +1,68 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2021-02-23T17:53:22Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Major River RG",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "The 8 major rivers that make up the Rio Grande River Basin.The fundamental flow network, from the National Hydrography Dataset, consisting predominantly of stream/river and artificial path vector features. It represents the spatial geometry, carries the attributes, and contains linear referencing measures for locating features or \"events\" on the network. Additional NHDFlowline features are canal/ditch, pipeline, connector, underground conduit, and coastline.The most current version of the National Hydrography Dataset, the NHD High Resolution, is mapped at a scale of 1:24,000 scale or better (1:63,360 or better in Alaska). These data are updated and maintained through Stewardship partnerships with states and other collaborative bodies.",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Colorado State University"
+  ],
+  "dc_publisher_sm": [
+    "Geospatial Centroid"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "NationalHydographyDataset",
+    "NHD",
+    "NHDFlowline",
+    "MajorRivers",
+    "RioGrande",
+    "RioGrandeRiverBasin",
+    "rg_hydrology",
+    "hydrology",
+    "Rivers",
+    "RioGrandeRiver",
+    "RioGrandeBasin",
+    "Basin"
+  ],
+  "dct_issued_s": "2020-05-20T16:26:28.000Z",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Colorado"
+  ],
+  "solr_geom": "ENVELOPE(-107.7193,-97.1461,37.8276,25.3478)",
+  "b1g_centroid_ss": "31.587699999999998,-102.43270000000001",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "https://hub.arcgis.com/datasets/acebf4cdbd374bd287f4d351878c1e55_0",
+  "dc_identifier_s": "https://hub.arcgis.com/datasets/acebf4cdbd374bd287f4d351878c1e55_0",
+  "dct_provenance_s": "Colorado State University",
+  "b1g_code_s": "geospatial_centroid",
+  "dct_isPartOf_sm": [
+    "geospatial_centroid"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/acebf4cdbd374bd287f4d351878c1e55_0\",\"http://schema.org/downloadUrl\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/acebf4cdbd374bd287f4d351878c1e55_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/KNdRU5cN6ENqCTjk/arcgis/rest/services/Major_River_RG/FeatureServer/0\"}"
+}

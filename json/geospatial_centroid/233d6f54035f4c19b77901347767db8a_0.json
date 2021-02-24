@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2021-02-23T17:53:22Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "CLP canals",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Irrigation canals and ditches in the South Platte River Basin clipped to the Cache la Poudre River watershed boundary. Canals and ditches are assigned to a HydroBase Diversion structure with a WDID.",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Colorado State University"
+  ],
+  "dc_publisher_sm": [
+    "Geospatial Centroid"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "canal",
+    "ditch",
+    "irrigation",
+    "cachelapoudreriver",
+    "CLP_hydrology"
+  ],
+  "dct_issued_s": "2020-06-01T20:57:59.000Z",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Colorado"
+  ],
+  "solr_geom": "ENVELOPE(-105.3266,-104.5972,40.9281,40.3914)",
+  "b1g_centroid_ss": "40.65975,-104.9619",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "https://hub.arcgis.com/datasets/233d6f54035f4c19b77901347767db8a_0",
+  "dc_identifier_s": "https://hub.arcgis.com/datasets/233d6f54035f4c19b77901347767db8a_0",
+  "dct_provenance_s": "Colorado State University",
+  "b1g_code_s": "geospatial_centroid",
+  "dct_isPartOf_sm": [
+    "geospatial_centroid"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/233d6f54035f4c19b77901347767db8a_0\",\"http://schema.org/downloadUrl\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/233d6f54035f4c19b77901347767db8a_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/KNdRU5cN6ENqCTjk/arcgis/rest/services/CLP_canals/FeatureServer/0\"}"
+}

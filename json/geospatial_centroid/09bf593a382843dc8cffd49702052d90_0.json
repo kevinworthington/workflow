@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2021-02-23T17:53:22Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "TX Invasive",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Verified private counts of Arundo Donax and tamarisk in the Rio Grande basin in Texas.These data show the number of Giant Reed (A. Donax) anf Tamarisk as sighted and reported by private citizens; compiled and verified by EDDSmaps, a community driven, real time mapping system for tracking invasive species in the US. These data are representative of populations of invasive species, but are not - and should not be used as - actual population numbers.EDDMapS is a web-based mapping system for documenting invasive species distribution. It is fast, easy to use and doesn't require Geographic Information Systems experience. Launched in 2005 by the Center for Invasive Species and Ecosystem Health at the University of Georgia, it was originally designed as a tool for state Exotic Pest Plant Councils to develop more complete distribution data of invasive species.EDDMapS goal is to maximize the effectiveness and accessibility of the immense numbers of invasive species observations recorded each year. As of May 2019, EDDMapS has over 4.8 million records.EDDMapS combines data from other databases and organizations as well as volunteer observations to create a national network of invasive species distribution data that is shared with educators, land managers, conservation biologists, and beyond. This data will become the foundation for a better understanding of invasive species distribution around the world.",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Colorado State University"
+  ],
+  "dc_publisher_sm": [
+    "Geospatial Centroid"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "Tamarisk",
+    "ArundoDonax",
+    "invasive",
+    "rg_conservation",
+    "conservation",
+    "invasivespecies",
+    "species",
+    "Texas"
+  ],
+  "dct_issued_s": "2020-05-19T17:59:42.000Z",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "solr_year_i": "2019",
+  "dct_spatial_sm": [
+    "Colorado"
+  ],
+  "solr_geom": "ENVELOPE(-106.6457,-97.0914,32.4642,25.8372)",
+  "b1g_centroid_ss": "29.1507,-101.86855",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "https://hub.arcgis.com/datasets/09bf593a382843dc8cffd49702052d90_0",
+  "dc_identifier_s": "https://hub.arcgis.com/datasets/09bf593a382843dc8cffd49702052d90_0",
+  "dct_provenance_s": "Colorado State University",
+  "b1g_code_s": "geospatial_centroid",
+  "dct_isPartOf_sm": [
+    "geospatial_centroid"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/09bf593a382843dc8cffd49702052d90_0\",\"http://schema.org/downloadUrl\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/09bf593a382843dc8cffd49702052d90_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/KNdRU5cN6ENqCTjk/arcgis/rest/services/TX_Invasive/FeatureServer/0\"}"
+}

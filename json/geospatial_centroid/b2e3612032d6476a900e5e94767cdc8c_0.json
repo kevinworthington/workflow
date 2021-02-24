@@ -1,0 +1,67 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2021-02-23T17:53:22Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Silvery Minnow Range RG",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Silvery_Minnow_Range_RG",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Colorado State University"
+  ],
+  "dc_publisher_sm": [
+    "Geospatial Centroid"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "rg_conservation",
+    "SilveryMinnow",
+    "conservation",
+    "RioGrandeRiver",
+    "River",
+    "RioGrande",
+    "RioGrandeBasin",
+    "distribution",
+    "IUCN",
+    "ThreatenedSpecies",
+    "Threatened"
+  ],
+  "dct_issued_s": "2020-05-19T17:56:45.000Z",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Colorado"
+  ],
+  "solr_geom": "ENVELOPE(-108.0333,-98.3328,37.1881,26.0330)",
+  "b1g_centroid_ss": "31.61055,-103.18305000000001",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "https://hub.arcgis.com/datasets/b2e3612032d6476a900e5e94767cdc8c_0",
+  "dc_identifier_s": "https://hub.arcgis.com/datasets/b2e3612032d6476a900e5e94767cdc8c_0",
+  "dct_provenance_s": "Colorado State University",
+  "b1g_code_s": "geospatial_centroid",
+  "dct_isPartOf_sm": [
+    "geospatial_centroid"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/b2e3612032d6476a900e5e94767cdc8c_0\",\"http://schema.org/downloadUrl\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/b2e3612032d6476a900e5e94767cdc8c_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/KNdRU5cN6ENqCTjk/arcgis/rest/services/Silvery_Minnow_Range_RG/FeatureServer/0\"}"
+}

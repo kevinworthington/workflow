@@ -1,0 +1,58 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2021-02-23T17:53:22Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "CLP watershedBoundary",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Hydrologic Unit delineation are closed polygons that encompass all area draining toward the lowest point (called outlet or pour point) in the polygon. Because of varying sizes for the different hydrologic unit levels: some polygons do not include all areas up to the drainage divide, but all areas are included up to one or more other upstream hydrologic units. A unique hydrologic unit code is used to identify each hydrologic unit. The hydrologic unit codes start with the 2-digit Region number that contains the 4-, 6-, and 8-digit hydrologic units. Each hydrologic unit has a unique hydrologic code.",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Colorado State University"
+  ],
+  "dc_publisher_sm": [
+    "Geospatial Centroid"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "cachelapoudre",
+    "watershedboundary"
+  ],
+  "dct_issued_s": "2020-05-13T18:47:57.000Z",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Colorado"
+  ],
+  "solr_geom": "ENVELOPE(-105.9261,-104.5892,41.2204,40.3719)",
+  "b1g_centroid_ss": "40.79615,-105.25765000000001",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "https://hub.arcgis.com/datasets/b770db5f70704fb4b3c8efd67c4039cf_0",
+  "dc_identifier_s": "https://hub.arcgis.com/datasets/b770db5f70704fb4b3c8efd67c4039cf_0",
+  "dct_provenance_s": "Colorado State University",
+  "b1g_code_s": "geospatial_centroid",
+  "dct_isPartOf_sm": [
+    "geospatial_centroid"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/b770db5f70704fb4b3c8efd67c4039cf_0\",\"http://schema.org/downloadUrl\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/b770db5f70704fb4b3c8efd67c4039cf_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/KNdRU5cN6ENqCTjk/arcgis/rest/services/CLP_watershedBoundary/FeatureServer/0\"}"
+}

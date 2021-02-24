@@ -1,0 +1,60 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2021-02-23T17:53:22Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "CSU Mountain Campus boundary PingreePark",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Coordinates for the Pingree Park USGS topographic quadrangle and the 8 surrounding quadrangles was used to create this polygon.\t",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Colorado State University"
+  ],
+  "dc_publisher_sm": [
+    "Geospatial Centroid"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "PingreePark",
+    "quadrangle",
+    "CSUmountaincampus",
+    "Colorado"
+  ],
+  "dct_issued_s": "2020-06-10T18:59:07.000Z",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Colorado"
+  ],
+  "solr_geom": "ENVELOPE(-105.6319,-105.5843,40.5757,40.5373)",
+  "b1g_centroid_ss": "40.5565,-105.60810000000001",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "https://hub.arcgis.com/datasets/ceaea3393e4e4427b19e723c59d44489_0",
+  "dc_identifier_s": "https://hub.arcgis.com/datasets/ceaea3393e4e4427b19e723c59d44489_0",
+  "dct_provenance_s": "Colorado State University",
+  "b1g_code_s": "geospatial_centroid",
+  "dct_isPartOf_sm": [
+    "geospatial_centroid"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/ceaea3393e4e4427b19e723c59d44489_0\",\"http://schema.org/downloadUrl\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/ceaea3393e4e4427b19e723c59d44489_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/KNdRU5cN6ENqCTjk/arcgis/rest/services/CSU_Mountain_Campus_boundary_PingreePark/FeatureServer/0\"}"
+}

@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2021-02-23T17:53:22Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "BT OilGasWellPermits 2019",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Downloaded from COGCC.state.co,us and clipped to Big Thompson watershed extent by intern Luke Chamberlain on 2/20/2020.",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Colorado State University"
+  ],
+  "dc_publisher_sm": [
+    "Geospatial Centroid"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "cogcc",
+    "oil",
+    "gas",
+    "colorado",
+    "wells",
+    "naturalgas",
+    "energy",
+    "bt_energy"
+  ],
+  "dct_issued_s": "2020-04-06T23:26:08.000Z",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Colorado"
+  ],
+  "solr_geom": "ENVELOPE(-105.0448,-104.9419,40.4051,40.2540)",
+  "b1g_centroid_ss": "40.32955,-104.99334999999999",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "https://hub.arcgis.com/datasets/4dc3fa2eeccf48f7a0f5611bae0a826c_0",
+  "dc_identifier_s": "https://hub.arcgis.com/datasets/4dc3fa2eeccf48f7a0f5611bae0a826c_0",
+  "dct_provenance_s": "Colorado State University",
+  "b1g_code_s": "geospatial_centroid",
+  "dct_isPartOf_sm": [
+    "geospatial_centroid"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/4dc3fa2eeccf48f7a0f5611bae0a826c_0\",\"http://schema.org/downloadUrl\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/4dc3fa2eeccf48f7a0f5611bae0a826c_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/KNdRU5cN6ENqCTjk/arcgis/rest/services/BT_OilGasWellPermits_2019/FeatureServer/0\"}"
+}

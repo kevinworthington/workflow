@@ -1,0 +1,69 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2021-02-23T17:53:22Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "USBR RG",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "United States Bureau of Reclamation lands within the Rio Grande River Basin. The USGS Protected Areas Database of the United States (PAD-US) is the nation's inventory of protected areas, including public open space and voluntarily provided, private protected areas, identified as an A-16 National Geospatial Data Asset in the Cadastral Theme (http://www.fgdc.gov/ngda-reports/NGDA_Datasets.html). PAD-US is an ongoing project with several published versions of a spatial database of areas dedicated to the preservation of biological diversity, and other natural, recreational or cultural uses, managed for these purposes through legal or other effective means. The geodatabase maps and describes public open space and other protected areas. Most areas are public lands owned in fee; however, long-term easements, leases, and agreements or administrative designations documented in agency management plans may be included. The PAD-US database strives to be a complete \"best available\" inventory of protected areas (lands and waters) including data provided by managing agencies and organizations. The dataset is built in collaboration with several partners and data providers (http://gapanalysis.usgs.gov/padus/stewards/). See Supplemental Information Section of this metadata record for more information on partnerships and links to major partner organizations. As this dataset is a compilation of many data sets; data completeness, accuracy, and scale may vary. Federal and state data are generally complete, while local government and private protected area coverage is about 50% complete, and depends on data management capacity in the state. For completeness estimates by state: http://www.protectedlands.net/partners. As the federal and state data are reasonably complete; focus is shifting to completing the inventory of local gov and voluntarily provided, private protected areas. The PAD-US geodatabase contains over twenty-five attributes and four feature classes to support data management, queries, web mapping services and analyses: Marine Protected Areas (MPA), Fee, Easements and Combined. The data contained in the MPA Feature class are provided directly by the National Oceanic and Atmospheric Administration (NOAA) Marine Protected Areas Center (MPA, http://marineprotectedareas.noaa.gov ) tracking the National Marine Protected Areas System. The Easements feature class contains data provided directly from the National Conservation Easement Database (NCED, http://conservationeasement.us ) The MPA and Easement feature classes contain some attributes unique to the sole source databases tracking them (e.g. Easement Holder Name from NCED, Protection Level from NOAA MPA Inventory). The \"Combined\" feature class integrates all fee, easement and MPA features as the best available national inventory of protected areas in the standard PAD-US framework. In addition to geographic boundaries, PAD-US describes the protection mechanism category (e.g. fee, easement, designation, other), owner and managing agency, designation type, unit name, area, public access and state name in a suite of standardized fields. An informative set of references (i.e. Aggregator Source, GIS Source, GIS Source Date) and \"local\" or source data fields provide a transparent link between standardized PAD-US fields and information from authoritative data sources. The areas in PAD-US are also assigned conservation measures that assess management intent to permanently protect biological diversity: the nationally relevant \"GAP Status Code\" and global \"IUCN Category\" standard. A wealth of attributes facilitates a wide variety of data analyses and creates a context for data to be used at local, regional, state, national and international scales. More information about specific updates and changes to this PAD-US version can be found in the Data Quality Information section of this metadata record as well as on the PAD-US website, http://gapanalysis.usgs.gov/padus/data/history/.) Due to the completeness and complexity of these data, it is highly recommended to review the Supplemental Information Section of the metadata record as well as the Data Use Constraints, to better understand data partnerships as well as see tips and ideas of appropriate uses of the data and how to parse out the data that you are looking for. For more information regarding the PAD-US dataset please visit, http://gapanalysis.usgs.gov/padus/. To find more data resources as well as view example analysis performed using PAD-US data visit, http://gapanalysis.usgs.gov/padus/resources/. The PAD-US dataset and data standard are compiled and maintained by the USGS Gap Analysis Program, http://gapanalysis.usgs.gov/ . For more information about data standards and how the data are aggregated please review the \"Standards and Methods Manual for PAD-US,\" http://gapanalysis.usgs.gov/padus/data/standards/ .",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "USGS Gap Analysis Program - Boise State University Cooperator"
+  ],
+  "dc_publisher_sm": [
+    "Geospatial Centroid"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "USBR",
+    "UnitedStatesBureauofReclamation",
+    "rg_landuse",
+    "lands",
+    "RioGrandeRiverBasin",
+    "PublicLand",
+    "PublicLands",
+    "PublicUse",
+    "UnitedStates",
+    "OpenSpace",
+    "RioGrande",
+    "RioGrandeRiver",
+    "RioGrandeBasin"
+  ],
+  "dct_issued_s": "2020-05-22T03:00:59.000Z",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Colorado"
+  ],
+  "solr_geom": "ENVELOPE(-107.3290,-104.2206,34.7026,32.4547)",
+  "b1g_centroid_ss": "33.578649999999996,-105.7748",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "https://hub.arcgis.com/datasets/77a49a85811f4952864a2a28a3b5ef16_0",
+  "dc_identifier_s": "https://hub.arcgis.com/datasets/77a49a85811f4952864a2a28a3b5ef16_0",
+  "dct_provenance_s": "Colorado State University",
+  "b1g_code_s": "geospatial_centroid",
+  "dct_isPartOf_sm": [
+    "geospatial_centroid"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/77a49a85811f4952864a2a28a3b5ef16_0\",\"http://schema.org/downloadUrl\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/77a49a85811f4952864a2a28a3b5ef16_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/KNdRU5cN6ENqCTjk/arcgis/rest/services/USBR_RG/FeatureServer/0\"}"
+}

@@ -1,0 +1,64 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2021-02-23T17:53:22Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Aquifers US RG",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This map layer contains the shallowest principal aquifers of the Rio Grande River Basin.The map layer was developed as part of the effort to produce the maps published at 1:2,500,000 in the printed series \"Ground Water Atlas of the United States\". The published maps contain base and cultural features not included in these data. This is a replacement for the July 1998 map layer called Principal Aquifers of the 48 Conterminous United States.",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "U.S. Geological Survey"
+  ],
+  "dc_publisher_sm": [
+    "Geospatial Centroid"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "UnitedStates",
+    "Groundwater",
+    "Aquifer",
+    "Hydrogeology",
+    "Geoscientificinformation",
+    "Geohydrology",
+    "rg_hydrology",
+    "hydrology"
+  ],
+  "dct_issued_s": "2020-05-20T16:45:06.000Z",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "solr_year_i": "1998",
+  "dct_spatial_sm": [
+    "Colorado"
+  ],
+  "solr_geom": "ENVELOPE(-108.7856,-97.1471,38.4582,25.8380)",
+  "b1g_centroid_ss": "32.1481,-102.96635",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "https://hub.arcgis.com/datasets/4f4038335a6d49ed9b3b28bc3e5f0dd4_0",
+  "dc_identifier_s": "https://hub.arcgis.com/datasets/4f4038335a6d49ed9b3b28bc3e5f0dd4_0",
+  "dct_provenance_s": "Colorado State University",
+  "b1g_code_s": "geospatial_centroid",
+  "dct_isPartOf_sm": [
+    "geospatial_centroid"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/4f4038335a6d49ed9b3b28bc3e5f0dd4_0\",\"http://schema.org/downloadUrl\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/4f4038335a6d49ed9b3b28bc3e5f0dd4_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/KNdRU5cN6ENqCTjk/arcgis/rest/services/Aquifers_US_RG/FeatureServer/0\"}"
+}

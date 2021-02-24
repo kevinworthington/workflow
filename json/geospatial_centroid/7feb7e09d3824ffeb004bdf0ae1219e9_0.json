@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2021-02-23T17:53:22Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "CLP highriskfloodplainFEMA",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "ZONE DESCRIPTIONA Areas with a 1% annual chance of flooding and a 26% chance of flooding over the life of a 30-year mortgage. Because detailed analyses are not performed for such areas; no depths or base flood elevations are shown within these zones.AE The base floodplain where base flood elevations are provided. AE Zones are now used on new format FIRMs instead of A1-A30 Zones.A1-30 These are known as numbered A Zones (e.g., A7 or A14). This is the base floodplain where the FIRM shows a BFE (old format).AH Areas with a 1% annual chance of shallow flooding, usually in the form of a pond, with an average depth ranging from 1 to 3 feet. These areas have a 26% chance of flooding over the life of a 30-year mortgage. Base flood elevations derived from detailed analyses are shown at selected intervals within these zones.AO River or stream flood hazard areas, and areas with a 1% or greater chance of shallow flooding each year, usually in the form of sheet flow, with an average depth ranging from 1 to 3 feet. These areas have a 26% chance of flooding over the life of a 30-year mortgage. Average flood depths derived from detailed analyses are shown within these zones.AR Areas with a temporarily increased flood risk due to the building or restoration of a flood control system (such as a levee or a dam). Mandatory flood insurance purchase requirements will apply, but rates will not exceed the rates for unnumbered A zones if the structure is built or restored in compliance with Zone AR floodplain management regulations.A99 Areas with a 1% annual chance of flooding that will be protected by a Federal flood control system where construction has reached specified legal requirements. No depths or base flood elevations are shown within these zones.",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Colorado State University"
+  ],
+  "dc_publisher_sm": [
+    "Geospatial Centroid"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "floodplains",
+    "highrisk",
+    "cachelapoudre",
+    "watershed",
+    "CLP_hydrology"
+  ],
+  "dct_issued_s": "2020-06-10T04:33:53.000Z",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Colorado"
+  ],
+  "solr_geom": "ENVELOPE(-105.7847,-104.8981,40.8559,40.2567)",
+  "b1g_centroid_ss": "40.5563,-105.3414",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "https://hub.arcgis.com/datasets/7feb7e09d3824ffeb004bdf0ae1219e9_0",
+  "dc_identifier_s": "https://hub.arcgis.com/datasets/7feb7e09d3824ffeb004bdf0ae1219e9_0",
+  "dct_provenance_s": "Colorado State University",
+  "b1g_code_s": "geospatial_centroid",
+  "dct_isPartOf_sm": [
+    "geospatial_centroid"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/7feb7e09d3824ffeb004bdf0ae1219e9_0\",\"http://schema.org/downloadUrl\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/7feb7e09d3824ffeb004bdf0ae1219e9_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/KNdRU5cN6ENqCTjk/arcgis/rest/services/CLP_highriskfloodplainFEMA/FeatureServer/0\"}"
+}

@@ -1,0 +1,63 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2021-02-23T17:53:22Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "CLP wetlands",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "This data set represents the extent, approximate location and type of riparian habitats in the western United States. These data delineate the areal extent of riparian habitats as defined by A System For Mapping Riparian Areas in the United States (USFWS 2009). Certain riparian habitats may be excluded from the National mapping program because of the limitations of aerial imagery as the primary data source used to detect riparian habitats.Data are in WGS84.",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "U.S. Fish and Wildlife Service"
+  ],
+  "dc_publisher_sm": [
+    "Geospatial Centroid"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "Riparian",
+    "WesternRiparian",
+    "Semi-Arid",
+    "WoodyVegetation",
+    "Colorado",
+    "Cachelapoudre",
+    "CLP_hydrology"
+  ],
+  "dct_issued_s": "2020-06-10T04:25:06.000Z",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "solr_year_i": "2009",
+  "dct_spatial_sm": [
+    "Colorado"
+  ],
+  "solr_geom": "ENVELOPE(-105.9220,-104.5903,41.1293,40.3751)",
+  "b1g_centroid_ss": "40.7522,-105.25614999999999",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "https://hub.arcgis.com/datasets/9ad74e4dbd004bac81185b3c46202687_0",
+  "dc_identifier_s": "https://hub.arcgis.com/datasets/9ad74e4dbd004bac81185b3c46202687_0",
+  "dct_provenance_s": "Colorado State University",
+  "b1g_code_s": "geospatial_centroid",
+  "dct_isPartOf_sm": [
+    "geospatial_centroid"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/9ad74e4dbd004bac81185b3c46202687_0\",\"http://schema.org/downloadUrl\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/9ad74e4dbd004bac81185b3c46202687_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/KNdRU5cN6ENqCTjk/arcgis/rest/services/CLP_wetlands/FeatureServer/0\"}"
+}

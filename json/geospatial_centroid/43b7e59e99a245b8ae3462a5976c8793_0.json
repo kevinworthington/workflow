@@ -1,0 +1,68 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2021-02-23T17:53:22Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "CH Municipality RG",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Chihuahua municipalities within the Rio Grande River Basin. The set of localities is 49379 of which 4546 are urban and 44833 rural. These digital representations correspond to the closing of the Intercensal Survey 2015, and locality contains boundaries and keys of the Basic Geostatistics Area (AGEB), block polygons and surrounding polygon(s) of the corresponding locality; Also contains street names, cultural and natural features (water bodies), main access roads to the locality and the location of the main services (church, school, medical assistance, municipal palace or help desk, market, cemetery and plaza or garden ). All elements contain attributes (geostatistical keys, update date, name of the geographical element, among others). The identification of the localities is conformed by a key of 9 digits of which the 2 first correspond to the state, the 3 following to the municipality and the 4 remaining to the locality.",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Colorado State University"
+  ],
+  "dc_publisher_sm": [
+    "Geospatial Centroid"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "rg_pb",
+    "politicalboundaries",
+    "politicalborders",
+    "Chihuahua",
+    "Mexico",
+    "Municipality",
+    "RioGrande",
+    "RioGrandeRiver",
+    "RioGrandeBasin",
+    "municipalities",
+    "municipalityborders",
+    "municipalityboundaries"
+  ],
+  "dct_issued_s": "2020-05-22T20:26:55.000Z",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "solr_year_i": "2015",
+  "dct_spatial_sm": [
+    "Colorado"
+  ],
+  "solr_geom": "ENVELOPE(-108.9483,-103.3068,31.7845,26.2148)",
+  "b1g_centroid_ss": "28.999650000000003,-106.12755",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "https://hub.arcgis.com/datasets/43b7e59e99a245b8ae3462a5976c8793_0",
+  "dc_identifier_s": "https://hub.arcgis.com/datasets/43b7e59e99a245b8ae3462a5976c8793_0",
+  "dct_provenance_s": "Colorado State University",
+  "b1g_code_s": "geospatial_centroid",
+  "dct_isPartOf_sm": [
+    "geospatial_centroid"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/43b7e59e99a245b8ae3462a5976c8793_0\",\"http://schema.org/downloadUrl\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/43b7e59e99a245b8ae3462a5976c8793_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/KNdRU5cN6ENqCTjk/arcgis/rest/services/CH_Municipality_RG/FeatureServer/0\"}"
+}

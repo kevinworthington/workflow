@@ -1,0 +1,67 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2021-02-23T17:53:22Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Wells TX RG",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Texas water wells within the Rio Grande River Basin. These layers contain Public Water Supply sites in the State of Texas. The locations were obtained by theWater Supply Division as recorded from various sources and built using the best existing location dataavailable from these sources. Although some location errors were found and corrected in the process,some errors still remain. As resources allow, TCEQ intends to improve the accuracy of these locations tomeet the standards set forth in the agency's Positional Data Policy. This layer was developed to supportthe TCEQ's Source Water Assessment and Protection Program (SWAP).",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Colorado State University"
+  ],
+  "dc_publisher_sm": [
+    "Geospatial Centroid"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "PWS",
+    "TCEQ",
+    "public",
+    "water",
+    "RioGrande",
+    "RioGrandeRiverBasin",
+    "wells",
+    "Texas",
+    "rg_infrastructure",
+    "infrastructure",
+    "waterwells"
+  ],
+  "dct_issued_s": "2020-05-20T20:02:46.000Z",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Colorado"
+  ],
+  "solr_geom": "ENVELOPE(-106.6238,-97.5717,32.4192,25.9539)",
+  "b1g_centroid_ss": "29.186549999999997,-102.09775",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "https://hub.arcgis.com/datasets/7f7dbbedb3644608b8a98add15dc9a88_0",
+  "dc_identifier_s": "https://hub.arcgis.com/datasets/7f7dbbedb3644608b8a98add15dc9a88_0",
+  "dct_provenance_s": "Colorado State University",
+  "b1g_code_s": "geospatial_centroid",
+  "dct_isPartOf_sm": [
+    "geospatial_centroid"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/7f7dbbedb3644608b8a98add15dc9a88_0\",\"http://schema.org/downloadUrl\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/7f7dbbedb3644608b8a98add15dc9a88_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/KNdRU5cN6ENqCTjk/arcgis/rest/services/Wells_TX_RG/FeatureServer/0\"}"
+}

@@ -1,0 +1,60 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2021-02-23T17:53:22Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "CLP FEMAfloodway",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "A \"Regulatory Floodway\" means the channel of a river or other watercourse and the adjacent land areas that must be reserved in order to discharge the base flood without cumulatively increasing the water surface elevation more than a designated height. Communities must regulate development in these floodways to ensure that there are no increases in upstream flood elevations. For streams and other watercourses where FEMA has provided Base Flood Elevations (BFEs), but no floodway has been designated, the community must review floodplain development on a case-by-case basis to ensure that increases in water surface elevations do not occur, or identify the need to adopt a floodway if adequate information is available. http://www.fema.gov/national-flood-insurance-program-2/floodway",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Colorado State University"
+  ],
+  "dc_publisher_sm": [
+    "Geospatial Centroid"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "floodways",
+    "cachelapoudre",
+    "watershed",
+    "CLP_hydrology"
+  ],
+  "dct_issued_s": "2020-06-10T04:28:12.000Z",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Colorado"
+  ],
+  "solr_geom": "ENVELOPE(-105.5888,-104.9440,40.6389,40.3470)",
+  "b1g_centroid_ss": "40.49295,-105.2664",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "https://hub.arcgis.com/datasets/1ac86669060246e8a2d27abcf99e261c_0",
+  "dc_identifier_s": "https://hub.arcgis.com/datasets/1ac86669060246e8a2d27abcf99e261c_0",
+  "dct_provenance_s": "Colorado State University",
+  "b1g_code_s": "geospatial_centroid",
+  "dct_isPartOf_sm": [
+    "geospatial_centroid"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/1ac86669060246e8a2d27abcf99e261c_0\",\"http://schema.org/downloadUrl\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/1ac86669060246e8a2d27abcf99e261c_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/KNdRU5cN6ENqCTjk/arcgis/rest/services/CLP_FEMAfloodway/FeatureServer/0\"}"
+}

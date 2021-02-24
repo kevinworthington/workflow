@@ -1,0 +1,69 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2021-02-23T17:53:22Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Wells CO RG 2017",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "Colorado water wells within the Rio Grande River Basin. Wells associated with the 2017 RGDSS Irrigated Lands data.",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Colorado Division of Water Resources"
+  ],
+  "dc_publisher_sm": [
+    "Geospatial Centroid"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "Wells",
+    "Irrigation",
+    "Groundwater",
+    "RioGrande",
+    "Colorado",
+    "rg_infrastructure",
+    "infrastructure",
+    "water",
+    "waterwells",
+    "well",
+    "wells",
+    "RioGrandeRiver",
+    "RioGrandeBasin"
+  ],
+  "dct_issued_s": "2020-05-20T20:17:51.000Z",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "solr_year_i": "2017",
+  "dct_spatial_sm": [
+    "Colorado"
+  ],
+  "solr_geom": "ENVELOPE(-106.4921,-105.3233,38.3414,36.9965)",
+  "b1g_centroid_ss": "37.668949999999995,-105.9077",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "https://hub.arcgis.com/datasets/6e8c7f4b853b406eb5c0fe09131e02fa_0",
+  "dc_identifier_s": "https://hub.arcgis.com/datasets/6e8c7f4b853b406eb5c0fe09131e02fa_0",
+  "dct_provenance_s": "Colorado State University",
+  "b1g_code_s": "geospatial_centroid",
+  "dct_isPartOf_sm": [
+    "geospatial_centroid"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/6e8c7f4b853b406eb5c0fe09131e02fa_0\",\"http://schema.org/downloadUrl\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/6e8c7f4b853b406eb5c0fe09131e02fa_0.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/KNdRU5cN6ENqCTjk/arcgis/rest/services/Wells_CO_RG_2017/FeatureServer/0\"}"
+}

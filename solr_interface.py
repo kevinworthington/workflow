@@ -1,6 +1,6 @@
 #original
 
-mport pysolr
+import pysolr
 import json
 
 class SolrInterface(object):
@@ -14,6 +14,7 @@ class SolrInterface(object):
         """
         Connects to Solr using the url provided when object was instantiated.
         """
+        print("connecting to",self.solr_url)
         return pysolr.Solr(self.solr_url)
 
     def escape_query(self, raw_query):
@@ -48,8 +49,14 @@ class SolrInterface(object):
         record_dict = self.json_to_dict(json_doc)
         self.add_dict_to_solr(record_dict)
 
+
     def add_dict_list_to_solr(self, list_of_dicts):
+        print("Adding {} items".format(len(list_of_dicts)))
         try:
-            self.solr.add(list_of_dicts)
+            resp = self.solr.add(list_of_dicts)
+            print(resp)
         except pysolr.SolrError as e:
             print("Solr Error: {e}".format(e=e))
+
+    def search(self,query):
+       return self.solr.search(self.escape_query(query))

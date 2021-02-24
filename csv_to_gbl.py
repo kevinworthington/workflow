@@ -42,7 +42,8 @@ multiple_dict = { #dictionary to translate multivalue Dublin Core/GBL fields int
 if not os.path.exists("json"): #create a folder to store the jsons if one does not already exist
     os.mkdir("json")
 
-csvfile = open('*.csv', 'r') #opens the csv with the GBL data. Change this as needed
+# csvfile = open('*.csv', 'r') #opens the csv with the GBL data. Change this as needed
+csvfile = open('/Users/kevin/projects/ArcHub Harvest/dcat-metadata/reports/allNewItems_20210223.csv', 'r') #opens the csv with the GBL data. Change this as needed
 
 reader = csv.DictReader(csvfile)
 date_modified = datetime.today().strftime('%Y-%m-%d')+"T"+datetime.today().strftime('%X')+"Z" #sets date modified to the current date
@@ -126,7 +127,12 @@ for row in reader: #each row is a dictionary
             to_append = '"https://openindexmaps.org":"' + val + '"'
             ref.append(to_append)
     small_dict["dct_references_s"] = '{' + (','.join(ref)) + '}'
+
+    # save the files
     iden = row['Identifier']
+    # remove the everything expect the last slash so the file can be saved
+    iden = iden[iden.rfind('/'):]
     filename = iden + ".json"
+    print(iden)
     with open("json/"+code+"/"+filename, 'w') as jsonfile: #writes to a json with the identifier as the filename
         json.dump(small_dict,jsonfile,indent=2)

@@ -1,0 +1,61 @@
+{
+  "geoblacklight_version": "1.0",
+  "layer_modified_dt": "2021-02-23T17:53:22Z",
+  "dc_rights_s": "Public",
+  "dc_title_s": "Region15 MainTribs",
+  "dct_alternativeTitle_sm": [
+    ""
+  ],
+  "dc_description_s": "The data for the NHDPlus_CRBRivers dataset was compiled from NHDPlus Version 2. Please visit https://www.horizon-systems.com/NHDPlus/NHDPlusV2_data.php for the source data, data disclaimers and metadata if not available in these data layer files. Much of the metadata for the files in the dataset are complete and were imported with the original file. In cases where there are discrepancies, metadata have been added where appropriate.",
+  "dc_language_sm": [
+    "English"
+  ],
+  "dc_creator_sm": [
+    "Colorado State University"
+  ],
+  "dc_publisher_sm": [
+    "Geospatial Centroid"
+  ],
+  "b1g_genre_sm": [
+    "Geospatial data"
+  ],
+  "dc_subject_sm": [
+    ""
+  ],
+  "b1g_keyword_sm": [
+    "crb",
+    "NHD",
+    "rivers",
+    "CRB_NHDRivers",
+    "regions"
+  ],
+  "dct_issued_s": "2020-08-21T19:05:07.000Z",
+  "dct_temporal_sm": [
+    ""
+  ],
+  "solr_year_i": "2020",
+  "dct_spatial_sm": [
+    "Colorado"
+  ],
+  "solr_geom": "ENVELOPE(-116.6248,-106.7717,39.8038,30.7563)",
+  "b1g_centroid_ss": "35.28005,-111.69825",
+  "dc_type_sm": [
+    "Dataset",
+    "Service"
+  ],
+  "layer_geom_type_s": "Vector",
+  "dc_format_s": "Shapefile",
+  "layer_slug_s": "https://hub.arcgis.com/datasets/6c09878917444cfbac56079ee40c4ed8_62",
+  "dc_identifier_s": "https://hub.arcgis.com/datasets/6c09878917444cfbac56079ee40c4ed8_62",
+  "dct_provenance_s": "Colorado State University",
+  "b1g_code_s": "geospatial_centroid",
+  "dct_isPartOf_sm": [
+    "geospatial_centroid"
+  ],
+  "b1g_status_s": "Active",
+  "dct_accrualMethod_s": "ArcGIS Hub",
+  "b1g_dateAccessioned_s": "",
+  "suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/6c09878917444cfbac56079ee40c4ed8_62\",\"http://schema.org/downloadUrl\":\"https://geospatialcentroid-csurams.hub.arcgis.com/datasets/6c09878917444cfbac56079ee40c4ed8_62.zip\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services1.arcgis.com/KNdRU5cN6ENqCTjk/arcgis/rest/services/CRB_NHDPlus_Rivers/FeatureServer/62\"}"
+}
